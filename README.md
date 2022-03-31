@@ -1,1 +1,1 @@
-# Real Estate Website using HTMl CSS PHP 
+# Real Estate Website using HTML CSS PHP and MySQL
